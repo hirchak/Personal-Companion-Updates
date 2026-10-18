@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "repository": "hirchak/Personal-Companion-Updates",
+  "tag": "personal-beta-b702",
+  "source_sha": "c1cc55b1a63107da41c15bce3a86eb38ba4c23c4",
+  "build": 702,
+  "version": "0.8.7",
+  "native_manifest": "5fb5967c00225847ae19045e4a70592ce294fcce2f89fe267aca7cb2b16e068a",
+  "channel": "M8F_PERSONAL_BETA",
+  "archive": "Personal-Companion-b702.zip",
+  "archive_sha256": "ba165be5e0ca9f22b162081ed1e1c905a265867898e9406faf698f9c1f6c06a1",
+  "archive_signature": "fV+c9AinCbR+1x67LZqvAo2caW/29bSii5oIDurgMYLQ/Ocp3sims1v1RJU45Tnw0GsEpCQ9VEQjGfT37R6TBw==",
+  "installer": "Personal-Companion-b702.dmg",
+  "installer_sha256": "134b9b2cdf783fce25b3342424f18321850d6b57e311aeb17fdf62178b1c9195",
+  "feed_sha256": "dc796a0a5fbe1be6ab50f106827e37583702a3ef759f44a77e8889b757a171fc",
+  "public_key": "uV7xxZpHXb6W4O2OjwMa/LuXwzkFWhTaG/9hSY0PR0s=",
+  "apple_signature": "ADHOC; NOT_NOTARIZED",
+  "provider_calls": 0,
+  "created_utc": "2026-10-18T23:05:14.205251+00:00",
+  "notes_sha256": "8bc68e4296885efdbd864c495ded7d4f0b428f8308c5270a0214f40be4174bb6",
+  "guide_sha256": "05fe725487ecc53277b820a6bd94ee1f466066cb6d48b45681404d4741f78e77"
+}
